@@ -1,3 +1,4 @@
+# New Document
 # TechModuleTeamProject
 Team project of the Fundamentals Dream Team for the course Tech Module January 20018 - SoftUni
 
@@ -66,93 +67,28 @@ Write a program, which reads a food product
 for the **given volume** and print them
 on the console in the following format:
 
-·        
-Name – as per the input
+·        Name – as per the input
 
-·        
-Volume – **integer**, **suffixed** by “**ml**” (e.g. “**220ml**”)
+·        Volume – **integer**, **suffixed** by “**ml**” (e.g. “**220ml**”)
 
-·        
-Energy content – **integer**, **suffixed** by “**kcal**” (e.g.
+·        Energy content – **integer**, **suffixed** by “**kcal**” (e.g.
 “**500kcal**”)
 
-·        
-Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”) 
+·        Sugar content – **integer**, **suffixed** by “**g**” (e.g. “**30g**”) 
 
 #### Examples
 
  
 
-**Input**
+|**Input**|**Output**|
+|---|---|
+|Nuka-Cola &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>220<br> 300 <br> 70 | 220ml Nuka-Cola:<br>660kcal, 154g sugars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
- 
+|**Input**|**Output**|
+|---|---|
+|Ice Cold Nuka-Cola&nbsp;&nbsp; <br>250<br> 350 <br> 350 | 250ml Ice Cold Nuka-Cola:&nbsp;<br>875kcal, 162.5g sugars|
 
-**Output**
+|**Input**|**Output**|
+|---|---|
+|Nuka-Cola Quantum<br>350<br> 600 <br> 140 | 350ml Nuka-Cola Quantum:<br>2100kcal, 490g sugars|
 
- 
-
-Nuka-Cola
-
-220
-
-300
-
-70
-
- 
-
-220ml Nuka-Cola:
-
-660kcal, 154g sugars
-
- 
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Ice Cold Nuka-Cola
-
-250
-
-350
-
-65
-
- 
-
-250ml Ice Cold Nuka-Cola:
-
-875kcal, 162.5g sugars
-
- 
-
- 
-
-**Input**
-
- 
-
-**Output**
-
- 
-
-Nuka-Cola Quantum
-
-350
-
-600
-
-140
-
- 
-
-350ml Nuka-Cola Quantum:
-
-2100kcal, 490g sugars
