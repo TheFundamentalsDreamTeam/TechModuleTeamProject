@@ -91,3 +91,5 @@ on the console in the following format:
 |---|---|
 |Nuka-Cola Quantum<br>350<br> 600 <br> 140 | 350ml Nuka-Cola Quantum:<br>2100kcal, 490g sugars|
 
+----
+
