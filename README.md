@@ -1,4 +1,3 @@
-# New Document
 # TechModuleTeamProject
 Team project of the Fundamentals Dream Team for the course Tech Module January 20018 - SoftUni
 
@@ -80,15 +79,15 @@ on the console in the following format:
 
  
 
-|**Input**|**Output**|
+|**<span style="color:blue">Input**|**<span style="color:red">Output**|
 |---|---|
 |Nuka-Cola &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>220<br> 300 <br> 70 | 220ml Nuka-Cola:<br>660kcal, 154g sugars&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 
-|**Input**|**Output**|
+|**<span style="color:blue">Input**|**<span style="color:red">Output**|
 |---|---|
 |Ice Cold Nuka-Cola&nbsp;&nbsp; <br>250<br> 350 <br> 350 | 250ml Ice Cold Nuka-Cola:&nbsp;<br>875kcal, 162.5g sugars|
 
-|**Input**|**Output**|
+|**<span style="color:blue">Input**|**<span style="color:red">Output**|
 |---|---|
 |Nuka-Cola Quantum<br>350<br> 600 <br> 140 | 350ml Nuka-Cola Quantum:<br>2100kcal, 490g sugars|
 
