@@ -40,3 +40,19 @@ Write a program, which calculates a rectangle’s area, based on its width and hei
 |---|---|---|
 14.00|56.00|61.65|
 ----
+
+----
+### Problem 3.                 
+**Miles To Kilometers**
+
+Write a program, which **converts miles** to **kilometers**. **Format** the output to the **2nd decimal place**.
+
+Note: **1 mile == 1.60934 kilometers**
+
+#### Examples
+
+|**Input:**|**Output:**|**Input:**|**Output:**|**Input:**|**Output:**|
+|---|---|---|---|---|---|
+60 |96.56|1|1.61|52.1113|83.86|
+
+----
