@@ -8,7 +8,7 @@ namespace _04_Beverage_Labels
         {
 			\\READ A PRODUCT NAME...
             var name = Console.ReadLine(); 	\\Read product name from Console.
-            var volume = int.Parse(Console.ReadLine());		\\Read volume of product by “Mililiters” form Console.
+            int productVolume = int.Parse(Console.ReadLine());		\\Read volume of product by “Mililiters” form Console.
             var energy = int.Parse(Console.ReadLine());		\\Read energy of product by “Kcal” from Console.
             var sugarContent = int.Parse(Console.ReadLine());	\\Read sugar of product by “Grams” from Console.
 
