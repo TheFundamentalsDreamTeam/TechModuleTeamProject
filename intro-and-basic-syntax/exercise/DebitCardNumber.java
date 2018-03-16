@@ -11,12 +11,12 @@ public class DebitCardNumber {
     public static void main(String[] args) throws IOException {
 
         BufferedReader console = new BufferedReader(new InputStreamReader(System.in));//here we initiate the console
-        StringBuilder result = new StringBuilder();//in this line we make stringbuilder to hold the creditcard numbers
+        StringBuilder debitCardNumber = new StringBuilder();//in this line we make stringbuilder to hold the creditcard numbers
         for (int i = 0; i < 4; i++) {                      //by this loop we read each number
-            int num = Integer.parseInt(console.readLine()); //we receive 4 integers on the console 
-            result.append(String.format("%04d", num)).append(" ");//we format the result in 4-digit debit card format
+            int number = Integer.parseInt(console.readLine()); //we receive 4 integers on the console 
+            debitCardNumber.append(String.format("%04d", number)).append(" ");//we format the result in 4-digit debit card format
         }
 
-        System.out.println(result); //printing the result 
+        System.out.println(debitCardNumber); //printing the result 
     }
 }
