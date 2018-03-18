@@ -7,15 +7,15 @@ public class Demo {
         Scanner scanner = new Scanner(System.in);
 		
 		// receiving width data from console  - double
-        double width = Double.parseDouble(scanner.nextLine());
+        double widthOfRectangle = Double.parseDouble(scanner.nextLine());
 		// receiving height data from console  - double
-        double height = Double.parseDouble(scanner.nextLine());
+        double heightOfRectangle = Double.parseDouble(scanner.nextLine());
 			
 		//calculating rectangle area
-        float sum =(float)(width*height);
+        float area =(float)(widthOfRectangle*heightOfRectangle);
 		
 		//printing the result with two digits precision
-        System.out.printf("%.2f",sum);
+        System.out.printf("%.2f",area);
 
     }
 }
