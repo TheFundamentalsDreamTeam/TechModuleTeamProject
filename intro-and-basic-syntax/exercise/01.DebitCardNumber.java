@@ -1,9 +1,7 @@
 import java.util.Scanner;
 
 
-/**
- * Created by Saki on 24.1.2018 ã..
- */
+//CONFIRMED from adimitrov
 public class DebitCardNumber {
     public static void main(String[] args) {
 
