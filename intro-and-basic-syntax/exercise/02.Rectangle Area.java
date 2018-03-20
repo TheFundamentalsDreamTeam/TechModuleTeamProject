@@ -1,5 +1,7 @@
 import java.util.Scanner;
 public class Demo {
+	
+	//CONFIRMED from adimitrov
 
     public static void main(String[] args) {
 		
