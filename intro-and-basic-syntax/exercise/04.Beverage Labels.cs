@@ -13,12 +13,12 @@ namespace _04_Beverage_Labels
             var sugarContentOfProduct = int.Parse(Console.ReadLine());	//Read sugar of product by “Grams” from Console.
 
 			//CALCULATIONS...
-            var kaloriesInKCal = volume * energy / 100.0;		//Calculate “kalories” of product by “Kcal” (energy content per 100ml).
-            var sugarInProduct = volume * sugarContent / 100.0;	//Calculate “sugars” of product by “Grams”. (sugar content per 100ml).
+            var kaloriesInKCal = productVolume * energyOfProduct / 100.0;		//Calculate “kalories” of product by “Kcal” (energy content per 100ml).
+            var sugarInProduct = productVolume * sugarContentOfProduct / 100.0;	//Calculate “sugars” of product by “Grams”. (sugar content per 100ml).
 			
 			//PRINT ON CONSOLE RESULT OF CALCULATIONS...
-            Console.WriteLine($"{volume}ml {name}:");	//Print volume of product by “Mililiters” and name of product.
-            Console.WriteLine($"{kalories}kcal, {sugar}g sugars");	//Print kalories of product by “Kcal” and sugar of product by “Grams”.
+            Console.WriteLine($"{productVolume}ml {productName}:");	//Print volume of product by “Mililiters” and name of product.
+            Console.WriteLine($"{kaloriesInKCal}kcal, {sugarInProduct}g sugars");	//Print kalories of product by “Kcal” and sugar of product by “Grams”.
         }
     }
 }
