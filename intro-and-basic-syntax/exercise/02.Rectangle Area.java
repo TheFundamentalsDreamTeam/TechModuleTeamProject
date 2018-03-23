@@ -1,3 +1,5 @@
+// CONFIRMED FROM XuTkO
+
 import java.util.Scanner;
 public class Demo {
 	
